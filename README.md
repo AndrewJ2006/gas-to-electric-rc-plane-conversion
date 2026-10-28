@@ -6,7 +6,7 @@ The converted aircraft was successfully flown, demonstrating that the electric p
 
 
 
- <img width="300" height="400" alt="Full Airframe" src="https://github.com/user-attachments/assets/bcfb56df-36a9-4201-89fb-f2bd0cd81123" />  <img width="250" height="400" alt="Motor Installation" src="https://github.com/user-attachments/assets/1e226f17-bb05-44b7-bdbe-8b459d52ecba" />  <img width="300" height="400" alt="Screenshot 2026-10-27 202449" src="https://github.com/user-attachments/assets/c21ad854-8265-4cfb-ac69-3b015f667a90" />
+ <img width="300" height="400" alt="Full Airframe" src="https://github.com/user-attachments/assets/bcfb56df-36a9-4201-89fb-f2bd0cd81123" />  <img width="250" height="400" alt="Motor Installation" src="https://github.com/user-attachments/assets/1e226f17-bb05-44b7-bdbe-8b459d52ecba" />  <img width="500" height="600" alt="Screenshot 2026-10-27 202449" src="https://github.com/user-attachments/assets/c21ad854-8265-4cfb-ac69-3b015f667a90" />
 
 
 ## Objectives
