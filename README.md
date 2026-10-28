@@ -5,9 +5,12 @@
 This project involved converting a gas-powered radio-controlled (RC) aircraft to electric propulsion. The original power system was replaced with an electric motor and propeller setup, with a rechargeable battery and electronic speed controller (ESC) powering the aircraft.
 The converted aircraft was successfully flown, demonstrating that the electric propulsion conversion worked in real-world operation.
 
-<img width="585" height="778" alt="IMG_0490" src="https://github.com/user-attachments/assets/5f09e078-e89f-4725-a55a-6783276d33fd" />
+
+<img width="585" height="778" alt="IMG_0490" src="https://github.com/user-attachments/assets/bcfb56df-36a9-4201-89fb-f2bd0cd81123" />
 <img width="4284" height="5712" alt="IMG_2601" src="https://github.com/user-attachments/assets/1e226f17-bb05-44b7-bdbe-8b459d52ecba" />
-<img width="4284" height="5712" alt="IMG_2603" src="https://github.com/user-attachments/assets/62f4bfd7-fab8-45b9-b1b8-662b121963c0" />
+[Kami Export - IMG_2603.pdf](https://github.com/user-attachments/files/34052712/Kami.Export.-.IMG_2603.pdf)
+
+
 
 
 ## Project Objectives
@@ -29,9 +32,8 @@ The converted aircraft was successfully flown, demonstrating that the electric p
 | Electronic speed controller (ESC) | Regulates electrical power delivered to the brushless motor. |
 | Rechargeable flight battery | Supplies electrical power to the propulsion system and onboard electronics. |
 | Spektrum AR410 receiver | Receives commands from the radio transmitter and relays control signals. |
-| Servos and control linkages | Operate the aircraft's control surfaces. |
 | Motor mount and mounting hardware | Secure the motor to the airframe. |
-| Wiring and electrical connectors | Connect the battery, ESC, motor, receiver, and associated electronics. |
+| Wiring and electrical connectors | Connect the battery, ESC, motor, receiver|
 
 
 ## Conversion Process
@@ -56,7 +58,7 @@ Successfully flew the converted aircraft to verify that the integrated electric 
 
 - Successfully converted a gas-powered RC aircraft to electric propulsion.
 - Achieved successful flight with the converted aircraft.
-- Gained hands-on experience with mechanical modification, electric propulsion integration, and radio-controlled aircraft systems.
+- Gained hands-on experience with mechanical assembly, electric propulsion integration, and radio-controlled aircraft systems.
 
 
 
