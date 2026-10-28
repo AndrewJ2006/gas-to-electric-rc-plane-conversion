@@ -6,8 +6,8 @@ This project involved converting a gas-powered radio-controlled (RC) aircraft to
 The converted aircraft was successfully flown, demonstrating that the electric propulsion conversion worked in real-world operation.
 
 
-<img width="350" height="453" alt="IMG_0490" src="https://github.com/user-attachments/assets/bcfb56df-36a9-4201-89fb-f2bd0cd81123" />
-<img width="375" height="500" alt="IMG_2601" src="https://github.com/user-attachments/assets/1e226f17-bb05-44b7-bdbe-8b459d52ecba" />
+<img width="350" height="467" alt="IMG_0490" src="https://github.com/user-attachments/assets/bcfb56df-36a9-4201-89fb-f2bd0cd81123" />
+<img width="350" height="467" alt="IMG_2601" src="https://github.com/user-attachments/assets/1e226f17-bb05-44b7-bdbe-8b459d52ecba" />
 <img width="350" height="453" alt="Screenshot 2026-10-27 201108" src="https://github.com/user-attachments/assets/9fae090b-9f7d-4242-a96f-b1466830e6af" />
 
 
