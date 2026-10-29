@@ -27,6 +27,18 @@ The converted aircraft was successfully flown, demonstrating that the electric p
 | **Radio Receiver** | Spektrum AR410 4-Channel DSMX (internal antenna) |
 | **Power Supply** | Multi-cell LiPo flight battery (XT60 connector) |
 
+## Calculations
+
+Google Sheet Link - [ https://docs.google.com/spreadsheets/d/1FR2TGfFEoVAoCPnVnvE2V-yr63v2r6iwobG0cPdmGy0/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1FR2TGfFEoVAoCPnVnvE2V-yr63v2r6iwobG0cPdmGy0/edit?gid=0#gid=0)
+
+Weight	9	lb
+Wingspan	75	in
+
+<img width="1184" height="600" alt="image" src="https://github.com/user-attachments/assets/1f84f65d-1e44-466a-b183-1f9bf01cbc4a" />
+<img width="666" height="638" alt="image" src="https://github.com/user-attachments/assets/f99159a7-0f6a-434d-ab94-39a4494e2bd9" />
+<img width="623" height="558" alt="image" src="https://github.com/user-attachments/assets/e413a528-9446-4a3a-83a8-23ebab962931" />
+
+
 ## Conversion Process
 
 1. Removed the original gas engine and retrofitted the front firewall to mount the Spektrum Avian brushless motor. Adjusted motor standoffs to line up the prop shaft with the cowl and ensure sufficient ventilation for cooling.
